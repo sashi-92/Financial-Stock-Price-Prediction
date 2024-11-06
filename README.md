@@ -1,14 +1,15 @@
 
 Project  based on Prediction of Financial Stock price prediction using Deep learning techniques
 
+
 STOCK-PRICE-PREDICTION-USING-LSTM-AND-CNN
 
    Tool to accurately predict the future closing value of a given stock across a given period
-   of time in the future.The data used in this project is of 3 companies : Microsoft(January 2, 
-   1990–November 18, 2021), Reliance (January 1,1996–November 18,2021),Tata Motors(Dec 25,1995–
-   November 18,2021) saved in csv files; MICROSOFT.NS.csv, RELIANCE.NS.csv,TATAMOTORS.NS.csv.
+   of time in the future.
+   
    
 Model Building of LSTM/CNN
+
    1.Reading data using parse date
    
    2.Correlation Analysis
@@ -30,6 +31,8 @@ Model Building of LSTM/CNN
    10.LSTM's Prediction Visual
    
    11.Converting Prediction data to a excel file
+   
 Output
+
    The prediction results for LSTM and CNN is saved in
    excel files; 
