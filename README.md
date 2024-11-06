@@ -2,6 +2,7 @@
 Project  based on Prediction of Financial Stock price prediction using Deep learning techniques
 
 STOCK-PRICE-PREDICTION-USING-LSTM-AND-CNN
+
    Tool to accurately predict the future closing value of a given stock across a given period
    of time in the future.The data used in this project is of 3 companies : Microsoft(January 2, 
    1990–November 18, 2021), Reliance (January 1,1996–November 18,2021),Tata Motors(Dec 25,1995–
