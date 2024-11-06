@@ -11,7 +11,9 @@ STOCK-PRICE-PREDICTION-USING-LSTM-AND-CNN
 Model Building of LSTM/CNN
 
    1.Reading data using parse date
+   
    2.Correlation Analysis
+   
    3.Normalizing the data
    
    4.Train test Split using Timeseriessplit
